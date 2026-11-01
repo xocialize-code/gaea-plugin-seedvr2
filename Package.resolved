@@ -1,0 +1,114 @@
+{
+  "originHash" : "d6ac7338898b1f3e4e73f3fc362be18259cbaa646eb99450a4d7b2eefdd6d023",
+  "pins" : [
+    {
+      "identity" : "designscaffold",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/DesignScaffold",
+      "state" : {
+        "revision" : "510e8fda8e68e42edb3d808d5f721d799547786f",
+        "version" : "0.25.0"
+      }
+    },
+    {
+      "identity" : "frame-stream-native",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/frame-stream-native.git",
+      "state" : {
+        "revision" : "e71050be546102d25a502eda0aa6400422406104",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "gaea-plugin-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize-code/gaea-plugin-kit.git",
+      "state" : {
+        "revision" : "0067767b4193ea898c1e100c02b0910c8f308652",
+        "version" : "0.9.0"
+      }
+    },
+    {
+      "identity" : "matroska-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/matroska-swift.git",
+      "state" : {
+        "revision" : "7baa8a635259bc9bd2b7f3a3dffff6bcd700e453",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "media-bridge",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/media-bridge.git",
+      "state" : {
+        "revision" : "c7db57aebd14a111808d1d495cf5623907dc3065",
+        "version" : "0.40.1"
+      }
+    },
+    {
+      "identity" : "mlx-engine-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/mlx-engine-swift.git",
+      "state" : {
+        "revision" : "0ea5fe69706e1a13cd0944319cc487d4fd8dd243",
+        "version" : "0.73.0"
+      }
+    },
+    {
+      "identity" : "mlx-profiling",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/mlx-profiling.git",
+      "state" : {
+        "revision" : "a1cee71340e28253b1796c655ac861756c87452d",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "mlx-realesrgan-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/mlx-realesrgan-swift.git",
+      "state" : {
+        "revision" : "d586e13a2c2a5514db05cda351dbdb9afab9ff6b",
+        "version" : "0.9.1"
+      }
+    },
+    {
+      "identity" : "mlx-seedvr2-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/mlx-seedvr2-swift.git",
+      "state" : {
+        "revision" : "92ce47312dcdfde31f1c685c8e2799937eb16e9e",
+        "version" : "0.10.1"
+      }
+    },
+    {
+      "identity" : "mlx-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ml-explore/mlx-swift",
+      "state" : {
+        "revision" : "19601207e9a0de51e03ee6ec0c3c5f3784275075",
+        "version" : "0.32.3"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
+        "version" : "1.8.2"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0c0290ff6b24942dadb83a929ffaaa1481df04a2",
+        "version" : "1.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
