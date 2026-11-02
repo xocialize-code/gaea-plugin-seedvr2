@@ -89,7 +89,7 @@ let fp16Offer = offer(fp16ID, title: "SeedVR2 3B (fp16)", memory: "large", tiers
                       notes: "SeedVR2 at full precision (8.4 GB of weights), for quality best. Otherwise the same as seedvr2-int8.")
 
 public let seedvr2Plugin = GaeaPluginDefinition(
-    id: "com.xocialize.gaea.seedvr2", version: "0.1.0", minGaea: "0.10.1", team: "CFZS6RXUCP",
+    id: "com.xocialize.gaea.seedvr2", version: "0.1.1", minGaea: "0.10.1", team: "CFZS6RXUCP",
     repo: "https://github.com/xocialize-code/gaea-plugin-seedvr2", title: "SeedVR2",
     summary: "SeedVR2-3B: video super-resolution (MES video.upscale), 2 or 4 times, live action and drawn, up to 1080p out.",
     license: "Apache-2.0", executable: "gaea-seedvr2-worker",
