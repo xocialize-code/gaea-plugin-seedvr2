@@ -1,13 +1,13 @@
 {
-  "originHash" : "172ea6d5befa984b9577d57ff7817dcd794373afff4a6f44ad75c7dc43c14bb1",
+  "originHash" : "d572d78e168ebe40881e0891b181a8f5cca16bfdd150812a91ab99703e143985",
   "pins" : [
     {
       "identity" : "designscaffold",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/xocialize/DesignScaffold",
       "state" : {
-        "revision" : "510e8fda8e68e42edb3d808d5f721d799547786f",
-        "version" : "0.25.0"
+        "revision" : "4e44017bbfb1c445aabbe85687f0a1a00ba193f2",
+        "version" : "0.26.0"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/xocialize-code/gaea-plugin-kit.git",
       "state" : {
-        "revision" : "0067767b4193ea898c1e100c02b0910c8f308652",
-        "version" : "0.9.0"
+        "revision" : "234ed30af93a9d7f894cc34cfc42e8ffc40d042c",
+        "version" : "0.16.0"
       }
     },
     {
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/xocialize/media-bridge.git",
       "state" : {
-        "revision" : "c7db57aebd14a111808d1d495cf5623907dc3065",
-        "version" : "0.40.1"
+        "revision" : "88f80a49ac8ea9e5d08c44bb42ab9e20cf2cfeb0",
+        "version" : "0.40.2"
       }
     },
     {
@@ -51,8 +51,17 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/xocialize/mlx-engine-swift.git",
       "state" : {
-        "revision" : "46041603fef7b6378e26753e326828ae71b79ddf",
-        "version" : "0.73.1"
+        "revision" : "ddd2cf10b433a5c4f6cee562a1c506a00807a7a6",
+        "version" : "0.83.0"
+      }
+    },
+    {
+      "identity" : "mlx-exact-conv-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xocialize/mlx-exact-conv-swift",
+      "state" : {
+        "revision" : "042fc99b2e769fc89f949ae47efcd2891954160b",
+        "version" : "0.1.2"
       }
     },
     {
@@ -78,17 +87,17 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/xocialize/mlx-seedvr2-swift.git",
       "state" : {
-        "revision" : "92ce47312dcdfde31f1c685c8e2799937eb16e9e",
-        "version" : "0.10.1"
+        "revision" : "9995a756216e88b38d2275405f19cf22a4683305",
+        "version" : "0.10.3"
       }
     },
     {
       "identity" : "mlx-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/ml-explore/mlx-swift",
+      "location" : "https://github.com/xocialize/mlx-swift",
       "state" : {
-        "revision" : "19601207e9a0de51e03ee6ec0c3c5f3784275075",
-        "version" : "0.32.3"
+        "revision" : "e9713221039f39a23f6ba32102b2a83dbe6d9b00",
+        "version" : "0.33.2"
       }
     },
     {
